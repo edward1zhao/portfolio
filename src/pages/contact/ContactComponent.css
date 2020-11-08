@@ -9,6 +9,7 @@
 
 .contact-heading-div {
   display: flex;
+  margin-bottom: 40px;
 }
 
 .blog-heading-div {
@@ -35,6 +36,7 @@
 .contact-heading-img-div {
   align-items: center;
   justify-content: center;
+  margin-left: 250px;
 }
 
 .blog-heading-img-div {
