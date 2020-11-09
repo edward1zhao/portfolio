@@ -1,6 +1,8 @@
 .raw_logo {
-  height: 305;
-  width: 440;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
 }
 .signature1 {
   stroke-dasharray: 800;
@@ -163,6 +165,6 @@
     stroke-dashoffset: 800;
   }
   to {
-    stroke-dashoffset: 400;
+    stroke-dashoffset: 600;
   }
 }

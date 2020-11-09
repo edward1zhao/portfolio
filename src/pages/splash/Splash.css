@@ -3,6 +3,7 @@
   width: 100vw;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 .screen {
@@ -24,7 +25,7 @@ body {
   /* background-color: #55198b; */
   overflow: hidden;
   border-radius: 100%;
-  animation: grow 5.5s forwards;
+  animation: grow 5.8s forwards;
 }
 
 @keyframes grow {
@@ -52,7 +53,7 @@ body {
     /* transform: scale(0);
     transform-origin: 50% 50%; */
     /* border-radius: 100%; */
-    transform: scale(1);
+    transform: scale(1.5);
     border-radius: 0%;
     opacity: 0;
   }
