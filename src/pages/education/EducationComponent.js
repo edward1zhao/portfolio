@@ -27,18 +27,23 @@ class Education extends Component {
                 <EducationImg theme={theme} />
               </div>
               <div className="heading-text-div">
-                <h1 className="heading-text" style={{ color: theme.text }}>
+                {/* <h1 className="heading-text" style={{ color: theme.text }}>
                   Education
-                </h1>
-                <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Basic Qualification and Certifcations
-                </h3>
+                </h1> */}
+
+                <h4 className="heading-sub-text" style={{ color: theme.text }}>
+                  Basic Certifcations
+                </h4>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
+                <h6 className="hacker">
+                  HackerRank is the market-leading technical assessment and
+                  remote interview solution for hiring developers.{" "}
+                </h6>
               </div>
             </div>
           </Fade>
           <Educations theme={this.props.theme} />
-          <Certifications theme={this.props.theme} />
+          {/* <Certifications theme={this.props.theme} /> */}
         </div>
         <Footer theme={this.props.theme} />
         <TopButton theme={this.props.theme} />

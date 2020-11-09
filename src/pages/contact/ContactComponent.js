@@ -26,8 +26,8 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  height={300}
-                  width={300}
+                  height={350}
+                  width={350}
                   src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                   alt=""
                 />
@@ -46,14 +46,6 @@ class Contact extends Component {
                   {ContactData["description"]}
                 </p>
                 <SocialMedia theme={theme} />
-                <div className="resume-btn-div">
-                  <Button
-                    text="See My Resume"
-                    newTab={true}
-                    href={greeting.resumeLink}
-                    theme={theme}
-                  />
-                </div>
               </div>
             </div>
           </Fade>
@@ -79,18 +71,6 @@ class Contact extends Component {
                 >
                   {addressSection["subtitle"]}
                 </p>
-                {/* <h1
-                  className="address-heading-text"
-                  style={{ color: theme.text }}
-                >
-                  {phoneSection["title"]}
-                </h1>
-                <p
-                  className="contact-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText }}
-                >
-                  {phoneSection["subtitle"]}
-                </p> */}
                 <div className="address-btn-div">
                   <Button
                     text="Visit on Google Maps"
