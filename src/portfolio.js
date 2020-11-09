@@ -236,7 +236,7 @@ const degrees = {
   degrees: [
     {
       title: "Dalian University of Technology",
-      subtitle: "B.Tech. in Computer Engineering",
+      subtitle: "B.Tech. in Information Technology",
       logo_path: "iiitk_logo.png",
       alt_name: "dalian_uni",
       duration: "2012 - 2016",
@@ -431,23 +431,12 @@ const contactPageData = {
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
-    avatar_image_path: "blogs_image.svg",
-  },
   addressSection: {
     title: "Address",
     subtitle: "Xigang District, Dalian, Dalian, Liaoning, China",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/place/38%C2%B055'30.8%22N+121%C2%B037'18.8%22E/@38.9252252,121.621953,20.22z/data=!4m5!3m4!1s0x0:0x0!8m2!3d38.92522!4d121.6219589",
-  },
-  phoneSection: {
-    title: "Phone Number",
-    subtitle: "+91 8320758513",
   },
 };
 
