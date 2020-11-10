@@ -256,8 +256,10 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work and Internship",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  description: `I have plenty of experiences on Web development using popular frameworks like React-Redux, Vue, Angular, Bootstrap, Django, Spring, Laravel, CodeIgniter.
+    And during my internship and early work, I had very interested in Deep Learning so I could build my own Neural Network.
+    I have also worked with some well established companies nearby my place.
+    I love Web development and AI program development.`,
   header_image_path: "experience.svg",
   sections: [
     {
@@ -320,7 +322,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "IMG_0022.JPG",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost real time. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Vue, Angular, Django, Spring and Laravel.",
   },
   addressSection: {
     title: "Address",
