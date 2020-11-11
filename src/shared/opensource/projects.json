@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
       "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
@@ -46,44 +46,23 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "ml-data-bot",
-      "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/ashutosh1919/ml-data-bot",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
+      "name": "Hotel-service-site",
+      "createdAt": "2019-01-19T14:24:55Z",
+      "description": "External service site of New world hotel which is one of the most finest hotels in Dalian.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Stock-Prediction-using-LSTM",
-      "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/ashutosh1919/Stock-Prediction-using-LSTM",
-      "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "HTML5",
+          "iconifyClass": "logos-html-5"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
-      "isFork": false,
-      "languages": [
+          "name": "CSS3",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -92,15 +71,52 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
-      "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "name": "Shopping-site",
+      "createdAt": "2018-06-18T17:25:51Z",
+      "description": "Advertise daily consuming goods",
       "isFork": false,
       "languages": [
         {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Text-Prediction-using-LSTM(RNN)",
+      "createdAt": "2018-1-23T05:00:56Z",
+      "description": "This project predict next word candidate using RNN and enhanced in terms of perfomance, self-learning, and structure.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "Company-daily-report-system",
+      "createdAt": "2017-08-24T13:13:00Z",
+      "description": "This project improved company management by using light web server and responsive, quick Front end",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Javacript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }
